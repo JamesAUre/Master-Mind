@@ -1,0 +1,9 @@
+You discover a bomb has been planted, 
+There is a code to stop the bomb detonation, 
+But you need to be quick! 
+You can choose how difficult of a bomb you want to defuse, but don't get too confident.
+If you do not get the code within 10 attempts the bomb will automatically detonate. 
+If you guess the code, you can stop the bomb and save the people!
+Earn promotions and demotions for win / lose streak*ssss* ---*
+ ,-*
+(_)    <--- my attempt at drawing a bomb

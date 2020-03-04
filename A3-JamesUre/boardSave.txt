@@ -1,0 +1,4 @@
+5
+EASY - 3 rows - Pieces: Y, B, G, P, C
+0
+3

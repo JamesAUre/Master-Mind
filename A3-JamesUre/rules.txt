@@ -1,0 +1,23 @@
+------===[RU:LES]===-----*
+-	2 Players: You (the code cracker) and the computer (the bomb)
+
+-	6 different code digits "y,b,g,p,o,c,r,m"
+
+-	The bomb will make a completely random code, length and number of digits depending on difficulty
+
+-	The bomb may use two or more of the same digits in any order
+
+-	For each guess you make, you will receive digits of 2 different letters
+	"R" digit: One of your tiles was the correct digit and had the correct position.
+	"W" digit: One of your tiles was the correct digit but the incorrect position.
+
+-	If you guess all code digits and positions correctly in 10 or less attempts, you win. Otherwise you lose.
+
+-	You also get a score, scores increase based on how early you make correct guesses.
+
+-	You may save the game at any point during and after the game by
+	typing "s" when asked for your input during your move.
+
+-	Likewise you can load a saved game at any point by typing "l".
+
+-	If you wish to quit the game, you may do so by typing "q".
